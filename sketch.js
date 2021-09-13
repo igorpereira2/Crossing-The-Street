@@ -61,41 +61,41 @@ function preload(){
   gif_loadImg = loadImage("imagens/ivitoria.gif");
   
   
-      foxDown [0] = loadImage("img/fox/foxd1.png");
-      foxDown [1] = loadImage("img/fox/foxd2.png"); 
-      foxDown [2] = loadImage("img/fox/foxd3.png"); 
-      foxDown [3] = loadImage("img/fox/foxd4.png"); 
-      foxDown [4] = loadImage("img/fox/foxd1.png"); 
-      foxDown [5] = loadImage("img/fox/foxd2.png"); 
-      foxDown [6] = loadImage("img/fox/foxd3.png"); 
-      foxDown [7] = loadImage("img/fox/foxd4.png"); 
+      foxDown [0] = loadImage("fox/foxd1.png");
+      foxDown [1] = loadImage("fox/foxd2.png"); 
+      foxDown [2] = loadImage("fox/foxd3.png"); 
+      foxDown [3] = loadImage("fox/foxd4.png"); 
+      foxDown [4] = loadImage("fox/foxd1.png"); 
+      foxDown [5] = loadImage("fox/foxd2.png"); 
+      foxDown [6] = loadImage("fox/foxd3.png"); 
+      foxDown [7] = loadImage("fox/foxd4.png"); 
 
-      foxUp [0] = loadImage("img/fox/foxu1.png");
-      foxUp [1] = loadImage("img/fox/foxu2.png"); 
-      foxUp [2] = loadImage("img/fox/foxu3.png"); 
-      foxUp [3] = loadImage("img/fox/foxu4.png"); 
-      foxUp [4] = loadImage("img/fox/foxu1.png"); 
-      foxUp [5] = loadImage("img/fox/foxu2.png"); 
-      foxUp [6] = loadImage("img/fox/foxu3.png"); 
-      foxUp [7] = loadImage("img/fox/foxu4.png");
+      foxUp [0] = loadImage("fox/foxu1.png");
+      foxUp [1] = loadImage("fox/foxu2.png"); 
+      foxUp [2] = loadImage("fox/foxu3.png"); 
+      foxUp [3] = loadImage("fox/foxu4.png"); 
+      foxUp [4] = loadImage("fox/foxu1.png"); 
+      foxUp [5] = loadImage("fox/foxu2.png"); 
+      foxUp [6] = loadImage("fox/foxu3.png"); 
+      foxUp [7] = loadImage("fox/foxu4.png");
 
-      foxLeft [0] = loadImage("img/fox/foxl1.png");
-      foxLeft [1] = loadImage("img/fox/foxl2.png");
-      foxLeft [2] = loadImage("img/fox/foxl3.png");
-      foxLeft [3] = loadImage("img/fox/foxl4.png");
-      foxLeft [4] = loadImage("img/fox/foxl1.png");
-      foxLeft [5] = loadImage("img/fox/foxl2.png");
-      foxLeft [6] = loadImage("img/fox/foxl3.png");
-      foxLeft [7] = loadImage("img/fox/foxl4.png");
+      foxLeft [0] = loadImage("fox/foxl1.png");
+      foxLeft [1] = loadImage("fox/foxl2.png");
+      foxLeft [2] = loadImage("fox/foxl3.png");
+      foxLeft [3] = loadImage("fox/foxl4.png");
+      foxLeft [4] = loadImage("fox/foxl1.png");
+      foxLeft [5] = loadImage("fox/foxl2.png");
+      foxLeft [6] = loadImage("fox/foxl3.png");
+      foxLeft [7] = loadImage("fox/foxl4.png");
 
-      foxRight [0] = loadImage("img/fox/foxr1.png");
-      foxRight [1] = loadImage("img/fox/foxr2.png");
-      foxRight [2] = loadImage("img/fox/foxr3.png");
-      foxRight [3] = loadImage("img/fox/foxr4.png");
-      foxRight [4] = loadImage("img/fox/foxr1.png");
-      foxRight [5] = loadImage("img/fox/foxr2.png");
-      foxRight [6] = loadImage("img/fox/foxr3.png");
-      foxRight [7] = loadImage("img/fox/foxr4.png");
+      foxRight [0] = loadImage("fox/foxr1.png");
+      foxRight [1] = loadImage("fox/foxr2.png");
+      foxRight [2] = loadImage("fox/foxr3.png");
+      foxRight [3] = loadImage("fox/foxr4.png");
+      foxRight [4] = loadImage("fox/foxr1.png");
+      foxRight [5] = loadImage("fox/foxr2.png");
+      foxRight [6] = loadImage("fox/foxr3.png");
+      foxRight [7] = loadImage("fox/foxr4.png");
   
   police[0] = loadImage("imagens/policeR1.png")
   police[1] = loadImage("imagens/policeR2.png")
